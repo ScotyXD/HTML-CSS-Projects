@@ -31,7 +31,7 @@ body {
         border: 1px solid black;
         border-radius: 25%;
         cursor: pointer;
-        transition: tranform .5s ease-in-out;
+        transition: transform .5s ease-in-out;
        
     }
    /*--------------------------------------------
@@ -100,7 +100,7 @@ body {
             background-image: url( "../images/Icons/icons2.png")
         }
         50% {
-            transform: translateY (330px);
+            transform: translateY(330px);
         }
     }
     
