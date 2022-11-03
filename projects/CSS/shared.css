@@ -85,7 +85,7 @@ p {
     padding-bottom: 40px;
 }
 
-.section {
+section {
     padding-top: 50px;
     margin-top: 50px;
 }
@@ -293,7 +293,7 @@ Contact STYLES
     box-shadow: 0 0 18px rgba(100, 65, 0, .8);
 }
 
-.font-spacer {
+.form-spacer {
     padding: 30px 39px;
 }
 
