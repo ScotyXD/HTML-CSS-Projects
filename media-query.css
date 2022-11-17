@@ -1,0 +1,9 @@
+@media not|only mediatype and (expressions) {
+    CSS-Code;
+}
+
+@media screen and (min-width:600px) {
+    p {
+        font-style: blue;
+    }
+}
